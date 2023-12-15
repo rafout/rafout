@@ -1,4 +1,4 @@
-<p align="center">Hello, I'm Rafael.<br><br> I'm a Control and Automation Engineer graduated from the Federal University of Lavras, and currently, I work as a Software Developer.</p>&nbsp;
+<p align="left">Hello, I'm Rafael.<br> I'm a Control and Automation Engineer graduated from the Federal University of Lavras, and currently, I work as a Software Developer.</p>&nbsp;
  &nbsp;
  &nbsp;
 
