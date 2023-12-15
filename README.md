@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafout/rafout/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"></p>&nbsp;
+<p align="center">Hello, I'm Rafael.<br><br> I'm a Control and Automation Engineer graduated from the Federal University of Lavras, and currently, I work as a Software Developer.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafout&theme=radical&mode=weekly" />
