@@ -35,8 +35,7 @@
 
 #### Studying in this moment:
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white](https://camo.githubusercontent.com/eab8fedbaaad24f87d4c6844a8b04ff26221ff302cf0c3877ba1921602d7d088/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4325323326636f6c6f723d353132424434266c6f676f3d43253233266c6f676f436f6c6f723d464646464646266c6162656c3d))&nbsp;
 
 #### Databases:
 
